@@ -65,7 +65,7 @@ public class Passenger
     @Override
     public String toString() {
         return  "ID: " + id + "\n" +
-                "Full Name: " + firstName + " " + lastName + "\n" +
+                "Full name: " + firstName + " " + lastName + "\n" +
                 "Passport Number: " + passportNumber + "\n" +
                 "Birthdate: " + birthdate + "\n" +
                 "Location: " + city + ", " + state;
